@@ -1,7 +1,7 @@
 # YouTube - Página Inicial
 
 <p align="center">
-  <img src="assets/images/youtube 1.png" alt="Logo do YouTube" width=150px>
+  <img src="assets/images/homepage.PNG" alt="Logo do YouTube" width=600px>
 </p>
 
 ## Descrição

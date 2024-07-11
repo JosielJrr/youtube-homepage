@@ -1,7 +1,7 @@
 # YouTube - Página Inicial
 
 <p align="center">
-  <img src="assets/images/homepage.PNG" alt="Logo do YouTube" width=600px>
+  <img src="assets/images/homepage.PNG" alt="Interface do YouTube" width=600px>
 </p>
 
 ## Descrição
@@ -14,7 +14,7 @@ Este projeto simula a página inicial do YouTube estática, exibindo vídeos rec
 ## Instalação
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/JosielJrr/listagem-youtube-grid-layout.git
+   git clone https://github.com/JosielJrr/youtube-homepage.git
 2. Abra o arquivo index.html no seu navegador.
 
 ## Funcionalidades

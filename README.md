@@ -1,8 +1,8 @@
 # YouTube - Página Inicial
 
-<p align="center">
+<div align="center">
   <img src="assets/images/homepage.PNG" alt="Interface do YouTube" width=600px>
-</p>
+</div>
 
 ## Descrição
 Este projeto simula a página inicial do YouTube estática, exibindo vídeos recomendados e funcionalidades básicas como pesquisa, navegação e acesso à conta do usuário.

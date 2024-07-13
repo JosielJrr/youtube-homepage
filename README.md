@@ -13,8 +13,9 @@ Este projeto simula a página inicial do YouTube estática, exibindo vídeos rec
 
 ## Instalação
 1. Clone o repositório:
-   ```bash
+   ```
    git clone https://github.com/JosielJrr/youtube-homepage.git
+   ```
 2. Abra o arquivo index.html no seu navegador.
 
 ## Funcionalidades

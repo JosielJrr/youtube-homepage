@@ -24,5 +24,5 @@ Este projeto simula a página inicial do YouTube estática, exibindo vídeos rec
 - Acesso rápido às funcionalidades de pesquisa, notificações e perfil do usuário (não funcionais).
 
 ## Notas Adicionais
-- Esse projeto foi densenvolvido na Formação CSS Web Developer da Digital Innovation One.
+- Esse projeto foi desenvolvido na Formação CSS Web Developer da Digital Innovation One.
 - A página foi projetada para ser visualizada em resoluções de tela específicas e pode **não** se adaptar a diferentes tamanhos de tela ou dispositivos.

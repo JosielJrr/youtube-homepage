@@ -1,5 +1,7 @@
 # ▶️ YouTube - Página Inicial
 
+Página inicial estática do YouTube com layout fixo.
+
 <div align="center">
   <img src="assets/images/homepage.PNG" alt="Interface do YouTube" width="600px">
 </div>
